@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes hhhh of files.
 test push origin.
 Creating a new branch is quick and simple.
+add merge
